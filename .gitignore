@@ -1,0 +1,13 @@
+*.wav
+.auto-coder/
+actions/
+output.txt
+*.json
+*.txt
+*.tsv
+*.csv
+*.info
+*.jpg
+*.jpeg
+*.png
+*.zip
